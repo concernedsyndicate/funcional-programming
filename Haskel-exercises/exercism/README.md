@@ -1,0 +1,1 @@
+I will put here my solutions of haskell problems found at http://exercism.io/
