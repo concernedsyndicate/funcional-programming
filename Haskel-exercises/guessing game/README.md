@@ -1,0 +1,1 @@
+A "hangman" guessing game based on https://www.futurelearn.com/courses/functional-programming-haskell/1/steps/116475 enriched with word randomization(random one from provided dictionary) and straightforward language selection.
